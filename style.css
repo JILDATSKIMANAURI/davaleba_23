@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    border: 0;
+}
+.logo{
+    display: flex;
+    gap: 30px;
+}
+.box{
+    width: 150px;
+    height: 300px;
+}
+.container2{
+    margin-top: 100px;
+}
+.button1{
+    background-color:transparent;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+.container3{
+    display: flex;
+    justify-content: space-between;
+}
+.button2{
+    width: 100px;
+    height: 200px;
+}
