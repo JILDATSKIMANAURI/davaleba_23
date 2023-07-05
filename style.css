@@ -10,13 +10,17 @@
     width: 150px;
     height: 300px;
 }
+.button3{
+    padding: 15px 36px;
+    background-color:transparent;
+    border: 1px solid blue;
+    border-radius: 37px;
+}
 .container2{
     margin-top: 100px;
 }
-.black-box{
-    height: 300px;
-    align-items: center;
-    padding-top: 20px;
+.boxes{
+    height: 403px;
 }
 .button1{
     background-color:transparent;
