@@ -6,6 +6,10 @@
     display: flex;
     gap: 30px;
 }
+.btn{
+    width: 214px;
+    height: 52px;
+}
 .box{
     width: 150px;
     height: 300px;
@@ -31,6 +35,10 @@
     display: flex;
     justify-content: end;
     column-gap: 50px;
+}
+.button{
+    width: 186px;
+    height: 52px;
 }
 .email1{
     width: 230px;
