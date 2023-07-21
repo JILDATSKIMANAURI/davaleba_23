@@ -24,25 +24,29 @@
     text-align: center;
 }
 .nav-menu .navbar-nav:last-child .nav-link{
+    font-family: Montserrat;
     font-size: 14px;
     font-weight: 700;
     line-height: 22px;
     letter-spacing: 0.20000000298023224px;
     text-align: right;
-    color: #23A6F0;
-}
-.home-button{
-    width: 214pxpx;
+    color:#23A6F0;
+  }
+  .nav-item .home-button{
+    width: 214px;
     height: 52px;
     padding: 15px 25px 15px 25px;
     border-radius: 5px;
     gap: 15px;
-    background-color: #23A6F0 !important;
-    color: white !important;
-}
+    background-color: #23A6F0;
+    color: #FFFFFF !important;
+  }
 .box{
     width: 150px;
     height: 300px;
+}
+.foto{
+    width: 100%;
 }
 .button3{
     padding: 15px 36px;
@@ -59,6 +63,7 @@
     font-weight: 700;
     font-size: 40px;
     line-height: 50px;
+    width: 100%;
 }
 .container2{
     margin-top: 100px;
@@ -80,13 +85,14 @@
     width: 186px;
     height: 52px;
 }
+.registration{
+    width: 117px;
+    height: 58px;
+    left: 204px;
+}
 .email1{
     width: 230px;
-    height: 50px;
+    height: 58px;
     background-color: rgb(240, 234, 234);
     padding: 20px;
-}
-.button2{
-    width: 100px;
-    height: 50px;
 }
